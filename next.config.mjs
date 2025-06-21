@@ -6,6 +6,6 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  basePath: '/your-repo-name', // IMPORTANT: replace with your GitHub repo name
+  basePath: '/portfolio-v1', // IMPORTANT: replace with your GitHub repo name
 };
 export default nextConfig;
